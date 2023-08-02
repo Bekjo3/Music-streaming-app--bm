@@ -20,15 +20,15 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 - Tailwind CSS 
 ### Screenshots
   ### General Discover Page
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/bb475ec6-3d6d-4621-98b6-1761196e3f3a)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/bb83e84c-e074-4bc8-83e8-79230179b437)
 ### Different Genres
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/fd0c179e-0a48-4a8b-9f4c-2d9978b3eaee)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/cff85985-61a7-4277-8679-ed40bebb81cb)
 ### Top Artists
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/0f8efdce-0feb-43a7-8bf3-147acba0bd35)
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/0c9cbd57-b6b9-4c75-b8fd-2f81d82583f5)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/d318045e-73b0-4f64-831f-9dfa01f2c74f)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/f31f05b1-fc0c-40b3-b573-d308576a93e8)
 ### Around You
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/ab89733b-9879-406b-9337-30e6914f79f6)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/3f6ed56c-89a3-42be-a987-9efd6519299e)
 ### Playing Music
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/c1a1889e-f9c3-47ab-b6bb-85dff3c7347d)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/0177d014-ba19-4f48-b8b9-3bfe4bc5c0ba)
 ### Search Bar
-![image](https://github.com/Bekjo3/Music-streaming-app/assets/114708848/72b62cb4-ffbf-47fc-8d47-e68685c2ee94)
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/c36bc93f-b20d-427c-974e-c346cefc7370)
