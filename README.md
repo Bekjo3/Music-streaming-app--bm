@@ -17,7 +17,8 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 - React
 - Redux
 - react-router-dom
-- Tailwind CSS 
+- Tailwind CSS
+  
 ### Screenshots
   ### General Discover Page
 ![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/bb83e84c-e074-4bc8-83e8-79230179b437)
