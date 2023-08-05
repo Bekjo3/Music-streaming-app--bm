@@ -1,4 +1,4 @@
-#Lumify-Music-streaming-app
+# Lumify-Music-streaming-app
 
 ### Introduction
 This project is a web-based music streaming application that allows users to explore music from various genres, discover artists, view top charts, and find music based on their location(country). 
