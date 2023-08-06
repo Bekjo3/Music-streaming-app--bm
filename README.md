@@ -18,6 +18,8 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 - Redux
 - react-router-dom
 - Tailwind CSS
+- Javascript
+- HTML
   
 ### Screenshots
   ### General Discover Page
