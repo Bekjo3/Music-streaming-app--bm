@@ -8,6 +8,7 @@ This project is a web-based music streaming application that allows users to exp
 - Music Around You: Discover music that is popular in your location or nearby areas.
 - Top Artists: Explore top artists and their latest releases.
 - Top Charts: View the latest top charts for trending songs.
+- Song Details: Follow songs using their lyrics.
 - User-Friendly Interface: A simple UI for smooth navigation.
 
 ### API Integration
@@ -35,3 +36,5 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 ![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/0177d014-ba19-4f48-b8b9-3bfe4bc5c0ba)
 ### Search Bar
 ![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/c36bc93f-b20d-427c-974e-c346cefc7370)
+### Song Details
+![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/3dc69ce6-7e9d-4cd4-9d6e-51c3eecc6233)
