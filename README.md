@@ -21,6 +21,7 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 - Tailwind CSS
 - Javascript
 - HTML
+- Vite
   
 ### Screenshots
   ### General Discover Page
