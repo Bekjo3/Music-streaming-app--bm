@@ -40,3 +40,20 @@ You can find the detailed API documentation here -> https://rapidapi.com/tipster
 ![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/c36bc93f-b20d-427c-974e-c346cefc7370)
 ### Song Details
 ![image](https://github.com/Bekjo3/Music-streaming-app--bm/assets/114708848/3dc69ce6-7e9d-4cd4-9d6e-51c3eecc6233)
+
+
+# Getting started with Create React App
+In this project directory, you can run: 
+## npm start
+Runs the app in the development mode.
+Open [http://localhost:3000/](http://localhost:3000/) to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+## npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
