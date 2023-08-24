@@ -5,6 +5,7 @@ This project is a web-based music streaming application that allows users to exp
 
 ### Features
 - Genre Selection: Choose from a wide range of music genres to suit your taste.
+- Advanced Search Functionality: A user-friendly search feature that lets users search for specific songs by using the artist or the song's name.
 - Music Around You: Discover music that is popular in your location or nearby areas.
 - Top Artists: Explore top artists and their latest releases.
 - Top Charts: View the latest top charts for trending songs.
